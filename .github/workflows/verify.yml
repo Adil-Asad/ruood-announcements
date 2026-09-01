@@ -1,0 +1,28 @@
+# Verifies that dist/ is still what the Announcement Manager signed.
+#
+# Runs on every push and pull request. It needs no dependencies and no secrets:
+# the public key it checks against is committed, because a public key is public.
+name: Verify announcements
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # No `npm install`. The script is deliberately dependency-free so that a
+      # supply-chain problem cannot sit between a push and this check.
+      - name: Verify the published manifest
+        run: node scripts/verify-manifest.mjs
+
+      - name: Verify the staging manifest
+        run: node scripts/verify-manifest.mjs --channel staging

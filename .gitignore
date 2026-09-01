@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+Thumbs.db
+
+# The PRIVATE signing key must never be committed. `announce keygen` refuses to
+# write one inside a repository at all, so this is the second line of defence
+# rather than the first — but a key in git history stays in git history.
+*.key
+*.pem
+keys/*.key
+keys/*.pem
