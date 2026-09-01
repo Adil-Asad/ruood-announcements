@@ -1,7 +1,36 @@
 {
-  "announcements": [],
-  "generatedAt": "1970-01-01T00:00:00Z",
+  "announcements": [
+    {
+      "body": "This is the first announcement published through the RUOOD Announcement Manager. It is a draft on the staging channel only, so no released build will show it. Archive it once you have seen it on a device.",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "inbox",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "welcome",
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-01T16:49:01Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "Announcements are on"
+    }
+  ],
+  "generatedAt": "2026-09-01T16:49:01Z",
+  "keyId": "2bc1e956",
   "paused": false,
-  "revision": 0,
-  "schemaVersion": 1
+  "revision": 1,
+  "schemaVersion": 1,
+  "signature": "a2G52OTRDyAxHxEJyLJIj+PZtP9su4SgHeiW/hBSDc+r6u4xdILdRklOyda8OZ3CAPQJLU+i3P0gjXmL0xUbCA=="
 }

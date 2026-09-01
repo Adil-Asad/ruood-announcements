@@ -1,0 +1,29 @@
+{
+  "body": "This is the first announcement published through the RUOOD Announcement Manager. It is a draft on the staging channel only, so no released build will show it. Archive it once you have seen it on a device.",
+  "category": "notice",
+  "createdAt": "2026-09-01T16:49:01Z",
+  "display": {
+    "dismiss": "permanent",
+    "maxImpressions": 1,
+    "minIntervalHours": 24,
+    "surface": "inbox",
+    "trigger": "next-launch"
+  },
+  "endAt": null,
+  "id": "welcome",
+  "minSchema": 1,
+  "priority": 50,
+  "rev": 1,
+  "startAt": "2026-09-01T16:49:01Z",
+  "status": "draft",
+  "targeting": {
+    "maxVersion": null,
+    "minVersion": null,
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "title": "Announcements are on",
+  "updatedAt": "2026-09-01T16:49:01Z"
+}
