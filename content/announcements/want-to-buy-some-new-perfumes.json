@@ -1,0 +1,30 @@
+{
+  "body": "We have all veraity of perfume.",
+  "category": "notice",
+  "createdAt": "2026-09-11T09:27:51Z",
+  "display": {
+    "dismiss": "permanent",
+    "maxImpressions": 1,
+    "minIntervalHours": 24,
+    "surface": "modal",
+    "trigger": "next-launch"
+  },
+  "endAt": null,
+  "id": "want-to-buy-some-new-perfumes",
+  "minSchema": 1,
+  "priority": 50,
+  "publishedAt": "2026-09-11T09:27:51Z",
+  "rev": 1,
+  "startAt": "2026-09-11T09:27:51.569Z",
+  "status": "published",
+  "targeting": {
+    "maxVersion": null,
+    "minVersion": null,
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "title": "Want To buy some new perfumes",
+  "updatedAt": "2026-09-11T09:27:51Z"
+}
