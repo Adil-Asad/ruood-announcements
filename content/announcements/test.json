@@ -1,0 +1,30 @@
+{
+  "body": "Test",
+  "category": "notice",
+  "createdAt": "2026-09-12T09:31:57Z",
+  "display": {
+    "dismiss": "permanent",
+    "maxImpressions": 1,
+    "minIntervalHours": 24,
+    "surface": "modal",
+    "trigger": "next-launch"
+  },
+  "endAt": null,
+  "id": "test",
+  "minSchema": 1,
+  "priority": 50,
+  "publishedAt": "2026-09-12T09:31:57Z",
+  "rev": 1,
+  "startAt": "2026-09-12T09:31:57.200Z",
+  "status": "published",
+  "targeting": {
+    "maxVersion": null,
+    "minVersion": null,
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "title": "Test",
+  "updatedAt": "2026-09-12T09:31:57Z"
+}
