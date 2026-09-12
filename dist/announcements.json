@@ -27,40 +27,6 @@
       "title": "Announcements are on"
     },
     {
-      "body": "We have all veraity of perfume.",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "want-to-buy-some-new-perfumes",
-      "image": {
-        "alt": "Photograph of a man in sunglasses and a denim jacket, dated 1985.",
-        "bytes": 98954,
-        "height": 1080,
-        "path": "images/want-to-buy-some-new-perfumes-0763a0fc.webp",
-        "sha256": "0763a0fc50cf974509d54ca240c44d721a760ea5dd2612e88c262511c672b867",
-        "width": 720
-      },
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-12T09:28:29.633Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": "Want To buy some new perfumes"
-    },
-    {
       "body": "Test",
       "category": "notice",
       "display": {
@@ -87,7 +53,7 @@
       "title": "Test"
     },
     {
-      "body": "Test 2",
+      "body": "We have all veraity of perfume.",
       "category": "notice",
       "display": {
         "dismiss": "permanent",
@@ -97,11 +63,19 @@
         "trigger": "next-launch"
       },
       "endAt": null,
-      "id": "test-2",
+      "id": "want-to-buy-some-new-perfumes",
+      "image": {
+        "alt": "Photograph of a man in sunglasses and a denim jacket, dated 1985.",
+        "bytes": 98954,
+        "height": 1080,
+        "path": "images/want-to-buy-some-new-perfumes-0763a0fc.webp",
+        "sha256": "0763a0fc50cf974509d54ca240c44d721a760ea5dd2612e88c262511c672b867",
+        "width": 720
+      },
       "minSchema": 1,
       "priority": 50,
       "rev": 1,
-      "startAt": "2026-09-12T16:51:28.890Z",
+      "startAt": "2026-09-12T17:24:36.241Z",
       "targeting": {
         "maxVersion": null,
         "minVersion": null,
@@ -110,13 +84,13 @@
           "ios"
         ]
       },
-      "title": "Test 2"
+      "title": "Want To buy some new perfumes"
     }
   ],
-  "generatedAt": "2026-09-12T16:52:20Z",
+  "generatedAt": "2026-09-12T17:26:06Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 10,
+  "revision": 11,
   "schemaVersion": 1,
-  "signature": "OWYWjvGbExBDdeznmddMZU9DA/+QGR3haN9T4N4bJftynUZTAdBZcEpp2ARB072Fm9AWHHtQr9EaWUlNwLxQDA=="
+  "signature": "2PEKK6IQhHgEE53GEWDeOOpAo+EICQYQBFCpIkvDyIsvwFuhQKYQefujY6aNnLNA9QvcoiRrPa42HDL7Dtk+Dg=="
 }
