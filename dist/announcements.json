@@ -1,33 +1,6 @@
 {
   "announcements": [
     {
-      "body": "This is the first announcement published through the RUOOD Announcement Manager. It is a draft on the staging channel only, so no released build will show it. Archive it once you have seen it on a device.",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "welcome",
-      "minSchema": 1,
-      "paused": true,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-12T01:45:18.759Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": "Announcements are on"
-    },
-    {
       "body": "Test",
       "category": "notice",
       "display": {
@@ -88,10 +61,10 @@
       "title": "Want To buy some new perfumes"
     }
   ],
-  "generatedAt": "2026-09-12T17:29:45Z",
+  "generatedAt": "2026-09-12T18:49:43Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 12,
+  "revision": 13,
   "schemaVersion": 1,
-  "signature": "ecsKYjRSC2LE6CMB4ZQ0cZGrJ8ITV2fpj1DIhlfyFuuHZy2Z1Qh012aYLBAGqQh9yEqY85aAT1EiNHN2D8WGBg=="
+  "signature": "u9VWa7EPOD6jMt9jy37us5i8Yx+Vsr51xpj0hy14bAjSNDxegfhzzWFTYXqX7oQf4nkh5sX9iYhelaDIelrrCw=="
 }
