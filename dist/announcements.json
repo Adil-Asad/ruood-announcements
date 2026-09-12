@@ -1,32 +1,6 @@
 {
   "announcements": [
     {
-      "body": "What's going on",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "hi-bro",
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-12T01:44:21.402Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": "Hi bro"
-    },
-    {
       "body": "This is the first announcement published through the RUOOD Announcement Manager. It is a draft on the staging channel only, so no released build will show it. Archive it once you have seen it on a device.",
       "category": "notice",
       "display": {
@@ -87,10 +61,10 @@
       "title": "Want To buy some new perfumes"
     }
   ],
-  "generatedAt": "2026-09-12T09:29:15Z",
+  "generatedAt": "2026-09-12T09:30:42Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 3,
+  "revision": 4,
   "schemaVersion": 1,
-  "signature": "6chEu7f/O7nlkeqDtH1z3IV9iUWmyDBAMfihHchvKq76htyVyEKM0OpRVwojAgDydBAQFPk1rC90Xm1d3710DA=="
+  "signature": "KZSuvbziP2g3kLvV8ozUOCUF0mCfbQKbi+GUWJLpAOo6gJkB2BQlz/sAVoYoOrx7O1fLeEGYJpiU+UdEPjnkDw=="
 }
