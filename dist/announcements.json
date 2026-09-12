@@ -1,7 +1,96 @@
 {
-  "announcements": [],
-  "generatedAt": "1970-01-01T00:00:00Z",
+  "announcements": [
+    {
+      "body": "What's going on",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "hi-bro",
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-12T01:44:21.402Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "Hi bro"
+    },
+    {
+      "body": "This is the first announcement published through the RUOOD Announcement Manager. It is a draft on the staging channel only, so no released build will show it. Archive it once you have seen it on a device.",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "welcome",
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-12T01:45:18.759Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "Announcements are on"
+    },
+    {
+      "body": "We have all veraity of perfume.",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "inbox",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "want-to-buy-some-new-perfumes",
+      "image": {
+        "alt": "Photograph of a man in sunglasses and a denim jacket, dated 1985.",
+        "bytes": 98954,
+        "height": 1080,
+        "path": "images/want-to-buy-some-new-perfumes-0763a0fc.webp",
+        "sha256": "0763a0fc50cf974509d54ca240c44d721a760ea5dd2612e88c262511c672b867",
+        "width": 720
+      },
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-12T01:52:14.461Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "Want To buy some new perfumes"
+    }
+  ],
+  "generatedAt": "2026-09-12T08:17:17Z",
+  "keyId": "2bc1e956",
   "paused": false,
-  "revision": 0,
-  "schemaVersion": 1
+  "revision": 2,
+  "schemaVersion": 1,
+  "signature": "DDsImjEagpbYeTKvTbw8TxsXhSy4ChFXc1V5Z7FSq86v05kyx1wRJKn1/FrH1VK4+XLJGD5Ho0rAaG17XLa9CQ=="
 }
