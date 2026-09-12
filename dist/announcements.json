@@ -61,32 +61,6 @@
       "title": "Want to buy a new perfume"
     },
     {
-      "body": "Adil 1",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "umer-perfumer",
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-12T18:55:46.328Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": "Umer perfumer"
-    },
-    {
       "body": "Shama",
       "category": "notice",
       "display": {
@@ -111,12 +85,38 @@
         ]
       },
       "title": "Shama."
+    },
+    {
+      "body": "Adil 1",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "inbox",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "umer-perfumer",
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-12T19:01:22.052Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "Umer perfumer"
     }
   ],
-  "generatedAt": "2026-09-12T19:00:24Z",
+  "generatedAt": "2026-09-12T19:02:08Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 17,
+  "revision": 18,
   "schemaVersion": 1,
-  "signature": "OrMNpMV1F7+GPPW6goQ8YfBlIZ30HGQRQXL+fleVoWHXWf6VvejgqDTaSZxL7Y7rCWkZn1VAfBCK8gzA3qUWCg=="
+  "signature": "Wt+iWUW6hherRzqUhd31sKPqHoiDLYHbBJq/O7FBJ1DF0l5ngJxx9iqMAGAV31Sy0rDCGE9tqhvDJznag3SoAw=="
 }
