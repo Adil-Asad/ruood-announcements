@@ -61,7 +61,7 @@
       "title": "Want to buy a new perfume"
     },
     {
-      "body": "Adil",
+      "body": "Adil 1",
       "category": "notice",
       "display": {
         "dismiss": "permanent",
@@ -75,7 +75,7 @@
       "minSchema": 1,
       "priority": 50,
       "rev": 1,
-      "startAt": "2026-09-12T18:53:11.687Z",
+      "startAt": "2026-09-12T18:55:46.328Z",
       "targeting": {
         "maxVersion": null,
         "minVersion": null,
@@ -87,10 +87,10 @@
       "title": "Umer perfumer"
     }
   ],
-  "generatedAt": "2026-09-12T18:53:51Z",
+  "generatedAt": "2026-09-12T18:56:29Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 15,
+  "revision": 16,
   "schemaVersion": 1,
-  "signature": "Gwh++x+V10nDgNcWFg7rLKqO/o4D2CWdOFtYQIaDfYeJEzXi96gVjByL/y3gDlJfdrdpn9DF7XTdbn6us6uuDg=="
+  "signature": "lMAuExpkydP2CXZQrChVhPBC3m7kDDni7WpjD8F+qJX7tYO6j1HDLKXvV8sl2tZKcOHQ7+kKN8g+lsMrHpb/AA=="
 }
