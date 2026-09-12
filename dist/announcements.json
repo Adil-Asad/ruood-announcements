@@ -74,7 +74,6 @@
       "endAt": null,
       "id": "test",
       "minSchema": 1,
-      "paused": true,
       "priority": 50,
       "rev": 1,
       "startAt": "2026-09-12T09:31:57.200Z",
@@ -89,10 +88,10 @@
       "title": "Test"
     }
   ],
-  "generatedAt": "2026-09-12T12:30:37Z",
+  "generatedAt": "2026-09-12T12:32:13Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 7,
+  "revision": 8,
   "schemaVersion": 1,
-  "signature": "HkBl4/D+YK1oj4e1AgtVv0aF6C+jJEY9bkbenPR0sCa53Lo1spQln/7UpbAOPeTAiHWe3OicchpPnaBxNlBUDA=="
+  "signature": "fbOndZJ2utfvtVe5EfuRTccFvCZ+TYHGQ6OGeH/Tnqf7C6cHPCAy1TU/LOjwYXaqP2sRVNepTfgsbgofB8LWBg=="
 }
