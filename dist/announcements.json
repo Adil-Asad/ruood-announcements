@@ -1,32 +1,6 @@
 {
   "announcements": [
     {
-      "body": "Test",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "test",
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-12T09:31:57.200Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": "Test"
-    },
-    {
       "body": "We have all veraity of perfume.",
       "category": "notice",
       "display": {
@@ -59,12 +33,38 @@
         ]
       },
       "title": "Want To buy some new perfumes"
+    },
+    {
+      "body": "Here is our lead perfumer",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "test",
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-12T18:50:37.210Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "Want to buy a new perfume"
     }
   ],
-  "generatedAt": "2026-09-12T18:49:43Z",
+  "generatedAt": "2026-09-12T18:51:14Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 13,
+  "revision": 14,
   "schemaVersion": 1,
-  "signature": "u9VWa7EPOD6jMt9jy37us5i8Yx+Vsr51xpj0hy14bAjSNDxegfhzzWFTYXqX7oQf4nkh5sX9iYhelaDIelrrCw=="
+  "signature": "3K9CRxALSVayhFeStj4qyDGUGWi1ED0jxtTHHBGHlr1I7YQDrACaQ9XwxPlWcgPy5AUM9wEjn5FVQo1BISwQDg=="
 }
