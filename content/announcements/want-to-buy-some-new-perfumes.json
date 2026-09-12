@@ -6,7 +6,7 @@
     "dismiss": "permanent",
     "maxImpressions": 1,
     "minIntervalHours": 24,
-    "surface": "modal",
+    "surface": "inbox",
     "trigger": "next-launch"
   },
   "endAt": null,
@@ -15,7 +15,7 @@
   "priority": 50,
   "publishedAt": "2026-09-11T09:27:51Z",
   "rev": 1,
-  "startAt": "2026-09-11T09:27:51.569Z",
+  "startAt": "2026-09-12T01:52:14.461Z",
   "status": "published",
   "targeting": {
     "maxVersion": null,
@@ -26,5 +26,5 @@
     ]
   },
   "title": "Want To buy some new perfumes",
-  "updatedAt": "2026-09-11T09:27:51Z"
+  "updatedAt": "2026-09-12T01:52:14Z"
 }
