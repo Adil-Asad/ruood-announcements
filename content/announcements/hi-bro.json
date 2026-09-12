@@ -1,0 +1,30 @@
+{
+  "body": "What's going on",
+  "category": "notice",
+  "createdAt": "2026-09-12T01:44:21Z",
+  "display": {
+    "dismiss": "permanent",
+    "maxImpressions": 1,
+    "minIntervalHours": 24,
+    "surface": "modal",
+    "trigger": "next-launch"
+  },
+  "endAt": null,
+  "id": "hi-bro",
+  "minSchema": 1,
+  "priority": 50,
+  "publishedAt": "2026-09-12T01:44:21Z",
+  "rev": 1,
+  "startAt": "2026-09-12T01:44:21.402Z",
+  "status": "published",
+  "targeting": {
+    "maxVersion": null,
+    "minVersion": null,
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "title": "Hi bro",
+  "updatedAt": "2026-09-12T01:44:21Z"
+}
