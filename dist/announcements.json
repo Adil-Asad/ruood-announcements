@@ -13,6 +13,7 @@
       "endAt": null,
       "id": "welcome",
       "minSchema": 1,
+      "paused": true,
       "priority": 50,
       "rev": 1,
       "startAt": "2026-09-12T01:45:18.759Z",
@@ -87,10 +88,10 @@
       "title": "Want To buy some new perfumes"
     }
   ],
-  "generatedAt": "2026-09-12T17:26:06Z",
+  "generatedAt": "2026-09-12T17:29:45Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 11,
+  "revision": 12,
   "schemaVersion": 1,
-  "signature": "2PEKK6IQhHgEE53GEWDeOOpAo+EICQYQBFCpIkvDyIsvwFuhQKYQefujY6aNnLNA9QvcoiRrPa42HDL7Dtk+Dg=="
+  "signature": "ecsKYjRSC2LE6CMB4ZQ0cZGrJ8ITV2fpj1DIhlfyFuuHZy2Z1Qh012aYLBAGqQh9yEqY85aAT1EiNHN2D8WGBg=="
 }
