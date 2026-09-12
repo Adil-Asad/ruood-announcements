@@ -16,7 +16,7 @@
   "publishedAt": "2026-09-12T09:31:57Z",
   "rev": 1,
   "startAt": "2026-09-12T09:31:57.200Z",
-  "status": "paused",
+  "status": "published",
   "targeting": {
     "maxVersion": null,
     "minVersion": null,
@@ -26,5 +26,5 @@
     ]
   },
   "title": "Test",
-  "updatedAt": "2026-09-12T12:29:56Z"
+  "updatedAt": "2026-09-12T12:31:29Z"
 }
