@@ -13,9 +13,10 @@
   "id": "shama",
   "minSchema": 1,
   "priority": 50,
+  "publishedAt": "2026-09-12T18:59:28Z",
   "rev": 1,
-  "startAt": "2026-09-12T18:58:52.386Z",
-  "status": "draft",
+  "startAt": "2026-09-12T18:59:28.242Z",
+  "status": "published",
   "targeting": {
     "maxVersion": null,
     "minVersion": null,
@@ -24,6 +25,6 @@
       "ios"
     ]
   },
-  "title": "Shama",
-  "updatedAt": "2026-09-12T18:58:52Z"
+  "title": "Shama.",
+  "updatedAt": "2026-09-12T18:59:28Z"
 }
