@@ -59,12 +59,38 @@
         ]
       },
       "title": "Want To buy some new perfumes"
+    },
+    {
+      "body": "Test",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "test",
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-12T09:31:57.200Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "Test"
     }
   ],
-  "generatedAt": "2026-09-12T09:30:42Z",
+  "generatedAt": "2026-09-12T09:32:44Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 4,
+  "revision": 5,
   "schemaVersion": 1,
-  "signature": "KZSuvbziP2g3kLvV8ozUOCUF0mCfbQKbi+GUWJLpAOo6gJkB2BQlz/sAVoYoOrx7O1fLeEGYJpiU+UdEPjnkDw=="
+  "signature": "rP8I0wOKRMkzrsuxIgqCb3tu/62KT2D+PSTSvkBHpXoNvFjVa+tDowTarZ1SoEUka+mMpsAipoqCRZc/gLYsBw=="
 }
