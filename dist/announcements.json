@@ -85,12 +85,38 @@
         ]
       },
       "title": "Umer perfumer"
+    },
+    {
+      "body": "Shama",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "shama",
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-12T18:59:28.242Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "Shama."
     }
   ],
-  "generatedAt": "2026-09-12T18:56:29Z",
+  "generatedAt": "2026-09-12T19:00:24Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 16,
+  "revision": 17,
   "schemaVersion": 1,
-  "signature": "lMAuExpkydP2CXZQrChVhPBC3m7kDDni7WpjD8F+qJX7tYO6j1HDLKXvV8sl2tZKcOHQ7+kKN8g+lsMrHpb/AA=="
+  "signature": "OrMNpMV1F7+GPPW6goQ8YfBlIZ30HGQRQXL+fleVoWHXWf6VvejgqDTaSZxL7Y7rCWkZn1VAfBCK8gzA3qUWCg=="
 }
