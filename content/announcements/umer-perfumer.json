@@ -16,7 +16,7 @@
   "publishedAt": "2026-09-12T18:53:11Z",
   "rev": 1,
   "startAt": "2026-09-12T19:01:22.052Z",
-  "status": "published",
+  "status": "paused",
   "targeting": {
     "maxVersion": null,
     "minVersion": null,
@@ -26,5 +26,5 @@
     ]
   },
   "title": "Umer perfumer",
-  "updatedAt": "2026-09-12T19:01:22Z"
+  "updatedAt": "2026-09-12T19:02:29Z"
 }
