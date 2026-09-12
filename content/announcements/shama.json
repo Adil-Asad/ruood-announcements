@@ -1,0 +1,29 @@
+{
+  "body": "Shama",
+  "category": "notice",
+  "createdAt": "2026-09-12T18:58:52Z",
+  "display": {
+    "dismiss": "permanent",
+    "maxImpressions": 1,
+    "minIntervalHours": 24,
+    "surface": "modal",
+    "trigger": "next-launch"
+  },
+  "endAt": null,
+  "id": "shama",
+  "minSchema": 1,
+  "priority": 50,
+  "rev": 1,
+  "startAt": "2026-09-12T18:58:52.386Z",
+  "status": "draft",
+  "targeting": {
+    "maxVersion": null,
+    "minVersion": null,
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "title": "Shama",
+  "updatedAt": "2026-09-12T18:58:52Z"
+}
