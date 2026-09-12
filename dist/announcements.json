@@ -59,7 +59,7 @@
         "dismiss": "permanent",
         "maxImpressions": 1,
         "minIntervalHours": 24,
-        "surface": "inbox",
+        "surface": "modal",
         "trigger": "next-launch"
       },
       "endAt": null,
@@ -75,7 +75,7 @@
       "minSchema": 1,
       "priority": 50,
       "rev": 1,
-      "startAt": "2026-09-12T01:52:14.461Z",
+      "startAt": "2026-09-12T09:28:29.633Z",
       "targeting": {
         "maxVersion": null,
         "minVersion": null,
@@ -87,10 +87,10 @@
       "title": "Want To buy some new perfumes"
     }
   ],
-  "generatedAt": "2026-09-12T08:17:17Z",
+  "generatedAt": "2026-09-12T09:29:15Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 2,
+  "revision": 3,
   "schemaVersion": 1,
-  "signature": "DDsImjEagpbYeTKvTbw8TxsXhSy4ChFXc1V5Z7FSq86v05kyx1wRJKn1/FrH1VK4+XLJGD5Ho0rAaG17XLa9CQ=="
+  "signature": "6chEu7f/O7nlkeqDtH1z3IV9iUWmyDBAMfihHchvKq76htyVyEKM0OpRVwojAgDydBAQFPk1rC90Xm1d3710DA=="
 }
