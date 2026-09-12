@@ -1,0 +1,30 @@
+{
+  "body": "Adil",
+  "category": "notice",
+  "createdAt": "2026-09-12T18:53:11Z",
+  "display": {
+    "dismiss": "permanent",
+    "maxImpressions": 1,
+    "minIntervalHours": 24,
+    "surface": "modal",
+    "trigger": "next-launch"
+  },
+  "endAt": null,
+  "id": "umer-perfumer",
+  "minSchema": 1,
+  "priority": 50,
+  "publishedAt": "2026-09-12T18:53:11Z",
+  "rev": 1,
+  "startAt": "2026-09-12T18:53:11.687Z",
+  "status": "published",
+  "targeting": {
+    "maxVersion": null,
+    "minVersion": null,
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "title": "Umer perfumer",
+  "updatedAt": "2026-09-12T18:53:11Z"
+}
