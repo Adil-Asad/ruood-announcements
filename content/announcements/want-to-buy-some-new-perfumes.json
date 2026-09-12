@@ -11,6 +11,14 @@
   },
   "endAt": null,
   "id": "want-to-buy-some-new-perfumes",
+  "image": {
+    "alt": "Photograph of a man in sunglasses and a denim jacket, dated 1985.",
+    "bytes": 98954,
+    "height": 1080,
+    "path": "images/want-to-buy-some-new-perfumes-0763a0fc.webp",
+    "sha256": "0763a0fc50cf974509d54ca240c44d721a760ea5dd2612e88c262511c672b867",
+    "width": 720
+  },
   "minSchema": 1,
   "priority": 50,
   "publishedAt": "2026-09-11T09:27:51Z",
@@ -26,5 +34,5 @@
     ]
   },
   "title": "Want To buy some new perfumes",
-  "updatedAt": "2026-09-12T01:52:14Z"
+  "updatedAt": "2026-09-12T08:15:28Z"
 }
