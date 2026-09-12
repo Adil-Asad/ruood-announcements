@@ -6,16 +6,17 @@
     "dismiss": "permanent",
     "maxImpressions": 1,
     "minIntervalHours": 24,
-    "surface": "inbox",
+    "surface": "modal",
     "trigger": "next-launch"
   },
   "endAt": null,
   "id": "welcome",
   "minSchema": 1,
   "priority": 50,
+  "publishedAt": "2026-09-12T01:45:18Z",
   "rev": 1,
-  "startAt": "2026-09-01T16:49:01Z",
-  "status": "draft",
+  "startAt": "2026-09-12T01:45:18.759Z",
+  "status": "published",
   "targeting": {
     "maxVersion": null,
     "minVersion": null,
@@ -25,5 +26,5 @@
     ]
   },
   "title": "Announcements are on",
-  "updatedAt": "2026-09-01T16:49:01Z"
+  "updatedAt": "2026-09-12T01:45:18Z"
 }
