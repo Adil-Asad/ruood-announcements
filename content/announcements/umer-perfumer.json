@@ -6,7 +6,7 @@
     "dismiss": "permanent",
     "maxImpressions": 1,
     "minIntervalHours": 24,
-    "surface": "modal",
+    "surface": "inbox",
     "trigger": "next-launch"
   },
   "endAt": null,
@@ -15,7 +15,7 @@
   "priority": 50,
   "publishedAt": "2026-09-12T18:53:11Z",
   "rev": 1,
-  "startAt": "2026-09-12T18:55:46.328Z",
+  "startAt": "2026-09-12T19:01:22.052Z",
   "status": "published",
   "targeting": {
     "maxVersion": null,
@@ -26,5 +26,5 @@
     ]
   },
   "title": "Umer perfumer",
-  "updatedAt": "2026-09-12T18:55:46Z"
+  "updatedAt": "2026-09-12T19:01:22Z"
 }
