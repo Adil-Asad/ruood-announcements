@@ -85,12 +85,38 @@
         ]
       },
       "title": "Test"
+    },
+    {
+      "body": "Test 2",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "test-2",
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-12T16:51:28.890Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "Test 2"
     }
   ],
-  "generatedAt": "2026-09-12T16:50:38Z",
+  "generatedAt": "2026-09-12T16:52:20Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 9,
+  "revision": 10,
   "schemaVersion": 1,
-  "signature": "ju9S3osqUQXDzdxxQcsHvpjxQNbB9IIg8L0sWi+NMn63UGc5ZlED8kCy5mKUgNR02XcLRrA2N0HavjUmVjZIBQ=="
+  "signature": "OWYWjvGbExBDdeznmddMZU9DA/+QGR3haN9T4N4bJftynUZTAdBZcEpp2ARB072Fm9AWHHtQr9EaWUlNwLxQDA=="
 }
