@@ -59,12 +59,38 @@
         ]
       },
       "title": "Want to buy a new perfume"
+    },
+    {
+      "body": "Adil",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "umer-perfumer",
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-12T18:53:11.687Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "Umer perfumer"
     }
   ],
-  "generatedAt": "2026-09-12T18:51:14Z",
+  "generatedAt": "2026-09-12T18:53:51Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 14,
+  "revision": 15,
   "schemaVersion": 1,
-  "signature": "3K9CRxALSVayhFeStj4qyDGUGWi1ED0jxtTHHBGHlr1I7YQDrACaQ9XwxPlWcgPy5AUM9wEjn5FVQo1BISwQDg=="
+  "signature": "Gwh++x+V10nDgNcWFg7rLKqO/o4D2CWdOFtYQIaDfYeJEzXi96gVjByL/y3gDlJfdrdpn9DF7XTdbn6us6uuDg=="
 }
