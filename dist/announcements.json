@@ -113,12 +113,38 @@
         ]
       },
       "title": "Umer perfumer"
+    },
+    {
+      "body": "A",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "inbox",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "announcement-2026-09-12",
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-12T19:08:57.624Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "A"
     }
   ],
-  "generatedAt": "2026-09-12T19:04:55Z",
+  "generatedAt": "2026-09-12T19:09:44Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 20,
+  "revision": 21,
   "schemaVersion": 1,
-  "signature": "jzcEOiZyVdyZ9W7muYB8uy4QP57Xp9fApPdYn/TKIwOysa8x6VngCOQd4y7OW0I9N4t0y15rnzaoNDfL27jvBw=="
+  "signature": "2NVg4NYfYZXylVY4TIS/7tS9aS+Mzql31G7+mUV+1MRxV3U7X7+JKq7tnZGACU2sCvG+w6O7pAmokqlHQeiWBg=="
 }
