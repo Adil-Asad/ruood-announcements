@@ -99,6 +99,7 @@
       "endAt": null,
       "id": "umer-perfumer",
       "minSchema": 1,
+      "paused": true,
       "priority": 50,
       "rev": 1,
       "startAt": "2026-09-12T19:01:22.052Z",
@@ -113,10 +114,10 @@
       "title": "Umer perfumer"
     }
   ],
-  "generatedAt": "2026-09-12T19:02:08Z",
+  "generatedAt": "2026-09-12T19:03:15Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 18,
+  "revision": 19,
   "schemaVersion": 1,
-  "signature": "Wt+iWUW6hherRzqUhd31sKPqHoiDLYHbBJq/O7FBJ1DF0l5ngJxx9iqMAGAV31Sy0rDCGE9tqhvDJznag3SoAw=="
+  "signature": "7z2xQmqSCHgUwEMCBpiCmonM0zoVenR+crwqvVr2iY7c+wtvNQqz40wgZaxIWjKdElP40DNnW7Mh+jBV7jMOBw=="
 }
