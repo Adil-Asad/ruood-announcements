@@ -74,6 +74,7 @@
       "endAt": null,
       "id": "shama",
       "minSchema": 1,
+      "paused": true,
       "priority": 50,
       "rev": 1,
       "startAt": "2026-09-12T18:59:28.242Z",
@@ -142,10 +143,10 @@
       "title": "A"
     }
   ],
-  "generatedAt": "2026-09-13T16:25:39Z",
+  "generatedAt": "2026-09-13T16:26:51Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 23,
+  "revision": 24,
   "schemaVersion": 1,
-  "signature": "Svsb5GBRe3YG2GOPeOooFrwCYdz0DIxFcxNgFI3IwgFDYIlrT6Or2vOU/GDtquf/oRpvcbtxfKvfIFc2OSifDQ=="
+  "signature": "g2kMNZ5bD42nfw4pX5qB6BI8qgSsLQ9fSHx3C5jerxrsS+/TJE2zN0eRjfLAdwCdpktLeJdoaEu9db1Qk9ZhBw=="
 }
