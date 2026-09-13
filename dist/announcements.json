@@ -127,6 +127,7 @@
       "endAt": null,
       "id": "announcement-2026-09-12",
       "minSchema": 1,
+      "paused": true,
       "priority": 50,
       "rev": 1,
       "startAt": "2026-09-12T19:08:57.624Z",
@@ -139,38 +140,12 @@
         ]
       },
       "title": "A"
-    },
-    {
-      "body": "Weather and RecoveryRainfall Aftermath: Heavy torrential rains hit Islamabad and Rawalpindi in early September, averaging 126 mm and causing severe urban flooding and traffic delays. [1] (https://www.youtube.com/watch?v=vcEylNr88FU), [2] (https://www.youtube.com/watch?v=kSPuPkCOTns)Traffic and Roads: Traffic flow has mostly normalized, though motorists have reported a road depression on the Islamabad Expressway near Zero Point and surface cracks along the Faizabad Interchange loop. So what do yo",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "islamabad-update",
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-12T19:14:25.942Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": "Islamabad update"
     }
   ],
-  "generatedAt": "2026-09-12T19:15:29Z",
+  "generatedAt": "2026-09-13T16:25:39Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 22,
+  "revision": 23,
   "schemaVersion": 1,
-  "signature": "zOozka+HueQPZ6Fi1ahdPhkHswsDj95wfwKNhbtNSw3hNxyDU1MqkB+BHCI0aJ+sMxQHePuAVH/oaCQkRaAkAA=="
+  "signature": "Svsb5GBRe3YG2GOPeOooFrwCYdz0DIxFcxNgFI3IwgFDYIlrT6Or2vOU/GDtquf/oRpvcbtxfKvfIFc2OSifDQ=="
 }
