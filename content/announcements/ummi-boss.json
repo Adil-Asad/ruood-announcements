@@ -1,0 +1,30 @@
+{
+  "body": "Yo yo",
+  "category": "notice",
+  "createdAt": "2026-09-13T16:49:19Z",
+  "display": {
+    "dismiss": "permanent",
+    "maxImpressions": 1,
+    "minIntervalHours": 24,
+    "surface": "modal",
+    "trigger": "next-launch"
+  },
+  "endAt": null,
+  "id": "ummi-boss",
+  "minSchema": 1,
+  "priority": 50,
+  "publishedAt": "2026-09-13T16:49:19Z",
+  "rev": 1,
+  "startAt": "2026-09-13T16:49:19.781Z",
+  "status": "published",
+  "targeting": {
+    "maxVersion": null,
+    "minVersion": null,
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "title": "Ummi Boss",
+  "updatedAt": "2026-09-13T16:49:19Z"
+}
