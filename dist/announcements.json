@@ -207,12 +207,46 @@
         ]
       },
       "title": "Ummi Boss"
+    },
+    {
+      "body": "",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "announcement-2026-09-14-3",
+      "image": {
+        "alt": "Announcement image",
+        "bytes": 43578,
+        "height": 736,
+        "path": "images/announcement-2026-09-14-3-e15c0c6f.webp",
+        "sha256": "e15c0c6fff0e51048db97800d1edc482a4def86003ba455889576e01db9b0825",
+        "width": 589
+      },
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-14T20:36:58.516Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": ""
     }
   ],
-  "generatedAt": "2026-09-14T20:04:41Z",
+  "generatedAt": "2026-09-14T20:37:47Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 31,
+  "revision": 32,
   "schemaVersion": 1,
-  "signature": "cDlCS9SXsmOre9pobb+ajlQj61ZqrnuZgcEsg+ASNgBVZVDBpK0je9WXGlCDAJ8+xsDUymjXjnwFHFvHyL0wAg=="
+  "signature": "Pbt0AmJZhn+C+XPDQ/EX9buzmf4Kf5DI1sKvsuTWglMtlIw7NciOJhpDUfjElnB5xPHgQKGnXNte7iKgUfOoAQ=="
 }
