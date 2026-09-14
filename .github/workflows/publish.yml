@@ -54,7 +54,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Adil-Asad/ruood-manager
-          ref: v1.0.1
+          ref: v1.0.2
           path: .manager
 
       - uses: actions/setup-node@v4
