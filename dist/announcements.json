@@ -91,7 +91,6 @@
         "width": 864
       },
       "minSchema": 1,
-      "paused": true,
       "priority": 50,
       "rev": 1,
       "startAt": "2026-09-12T18:59:28.242Z",
@@ -208,80 +207,12 @@
         ]
       },
       "title": "Ummi Boss"
-    },
-    {
-      "body": "",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "announcement-2026-09-13",
-      "image": {
-        "alt": "Announcement image",
-        "bytes": 107472,
-        "height": 1080,
-        "path": "images/announcement-2026-09-13-b76e445e.webp",
-        "sha256": "b76e445e59e576b20f70d7a5603e3c10af6fbec3af04c59ecd6dc8ee24c30c47",
-        "width": 864
-      },
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-14T19:45:33.401Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": ""
-    },
-    {
-      "body": "",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "announcement-2026-09-14-2",
-      "image": {
-        "alt": "Announcement image",
-        "bytes": 17596,
-        "height": 900,
-        "path": "images/announcement-2026-09-14-2-6fad86b2.webp",
-        "sha256": "6fad86b268a43fa9c006796b57856c59913814023ff916378b9767935ec15f0d",
-        "width": 720
-      },
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-14T19:53:22.404Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": ""
     }
   ],
-  "generatedAt": "2026-09-14T19:59:51Z",
+  "generatedAt": "2026-09-14T20:04:41Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 30,
+  "revision": 31,
   "schemaVersion": 1,
-  "signature": "ehMX03FK51O6/AshPyNDjHEmV/WIj5QF8UwGOsqdvSvMGXkO+JLeFuKr50ItbhLyy6xtm9IdpczmIkh7QCHBAA=="
+  "signature": "cDlCS9SXsmOre9pobb+ajlQj61ZqrnuZgcEsg+ASNgBVZVDBpK0je9WXGlCDAJ8+xsDUymjXjnwFHFvHyL0wAg=="
 }
