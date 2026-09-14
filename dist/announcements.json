@@ -21,6 +21,7 @@
         "width": 720
       },
       "minSchema": 1,
+      "paused": true,
       "priority": 50,
       "rev": 1,
       "startAt": "2026-09-12T17:24:36.241Z",
@@ -46,6 +47,14 @@
       },
       "endAt": null,
       "id": "test",
+      "image": {
+        "alt": "Want to buy a new perfume",
+        "bytes": 69166,
+        "height": 1080,
+        "path": "images/test-4cb1f445.webp",
+        "sha256": "4cb1f44557f724aeac46372330f12c7e3bd8128fd5e83eba5a89fdc22764bb77",
+        "width": 864
+      },
       "minSchema": 1,
       "paused": true,
       "priority": 50,
@@ -73,6 +82,14 @@
       },
       "endAt": null,
       "id": "shama",
+      "image": {
+        "alt": "Shama.",
+        "bytes": 34074,
+        "height": 1080,
+        "path": "images/shama-0d8625b4.webp",
+        "sha256": "0d8625b4f7c0bf6fbbe2b3c4d0de356ecde4ffbb97ead29239b9b90a36f1073f",
+        "width": 864
+      },
       "minSchema": 1,
       "paused": true,
       "priority": 50,
@@ -100,6 +117,14 @@
       },
       "endAt": null,
       "id": "umer-perfumer",
+      "image": {
+        "alt": "Umer perfumer",
+        "bytes": 103810,
+        "height": 1080,
+        "path": "images/umer-perfumer-22bb250e.webp",
+        "sha256": "22bb250e330e02d9d310a36802003e2c4dab9b21eb4568a9bde03ca9ed0ef83b",
+        "width": 1080
+      },
       "minSchema": 1,
       "paused": true,
       "priority": 50,
@@ -127,6 +152,14 @@
       },
       "endAt": null,
       "id": "announcement-2026-09-12",
+      "image": {
+        "alt": "A",
+        "bytes": 87508,
+        "height": 900,
+        "path": "images/announcement-2026-09-12-5e4140c5.webp",
+        "sha256": "5e4140c5072fd03d6b522aa78415cade6dde42be3033472f43aea76fbd0a4563",
+        "width": 720
+      },
       "minSchema": 1,
       "paused": true,
       "priority": 50,
@@ -141,12 +174,105 @@
         ]
       },
       "title": "A"
+    },
+    {
+      "body": "Yo yo",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "ummi-boss",
+      "image": {
+        "alt": "Ummi Boss",
+        "bytes": 84292,
+        "height": 1080,
+        "path": "images/ummi-boss-00150b06.webp",
+        "sha256": "00150b06fb932cda12d95c376fe0e633be59a0de28d6f6a07888b1a6e15ff1e9",
+        "width": 720
+      },
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-13T16:49:19.781Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "Ummi Boss"
+    },
+    {
+      "body": "",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "announcement-2026-09-13",
+      "image": {
+        "alt": "Announcement image",
+        "bytes": 107472,
+        "height": 1080,
+        "path": "images/announcement-2026-09-13-b76e445e.webp",
+        "sha256": "b76e445e59e576b20f70d7a5603e3c10af6fbec3af04c59ecd6dc8ee24c30c47",
+        "width": 864
+      },
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-13T17:49:55.362Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android"
+        ]
+      },
+      "title": ""
+    },
+    {
+      "body": "Yycychcch",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "chhcgc",
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-13T18:15:22.617Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "Chhcgc"
     }
   ],
-  "generatedAt": "2026-09-13T16:26:51Z",
+  "generatedAt": "2026-09-14T19:33:35Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 24,
+  "revision": 25,
   "schemaVersion": 1,
-  "signature": "g2kMNZ5bD42nfw4pX5qB6BI8qgSsLQ9fSHx3C5jerxrsS+/TJE2zN0eRjfLAdwCdpktLeJdoaEu9db1Qk9ZhBw=="
+  "signature": "uEsGDbXqE0V550nOcJy6GBUBZjkYmxJ0Wc+F8qO/iDwh1IMqJvlmgxNRfRZvtRZk5BkiFWyXVwlNsiPavnLpDw=="
 }
