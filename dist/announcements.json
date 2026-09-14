@@ -268,12 +268,46 @@
         ]
       },
       "title": ""
+    },
+    {
+      "body": "Jj",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "announcement-2026-09-14",
+      "image": {
+        "alt": "X",
+        "bytes": 143282,
+        "height": 1080,
+        "path": "images/announcement-2026-09-14-b1929238.webp",
+        "sha256": "b1929238eb35666082f1df32efa7002157b61249a4526cb8b5c8084db48d7788",
+        "width": 864
+      },
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-14T19:50:27.294Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "X"
     }
   ],
-  "generatedAt": "2026-09-14T19:46:27Z",
+  "generatedAt": "2026-09-14T19:51:16Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 26,
+  "revision": 27,
   "schemaVersion": 1,
-  "signature": "z+DnDe7v/E5zVHMnr8EcPjLfzEIoJKWhTECvI7qtw2FEGaF7ymM3MEPSIzCzJC1Q/xlNkdjkq/kC9OymSc/GCw=="
+  "signature": "oFyxzdiLQckVj/r0RBxkxgMQKlUoMRe4FBMbrpsiRUhow2AhWPtr+KqpDHd6k4mww03nsaDn51Za16wYIyfEDw=="
 }
