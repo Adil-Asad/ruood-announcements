@@ -210,32 +210,6 @@
       "title": "Ummi Boss"
     },
     {
-      "body": "Yycychcch",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "chhcgc",
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-13T18:15:22.617Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": "Chhcgc"
-    },
-    {
       "body": "",
       "category": "notice",
       "display": {
@@ -338,10 +312,10 @@
       "title": ""
     }
   ],
-  "generatedAt": "2026-09-14T19:54:12Z",
+  "generatedAt": "2026-09-14T19:57:25Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 28,
+  "revision": 29,
   "schemaVersion": 1,
-  "signature": "d2o1/4AynuChdrZQMOKO++YxvJTArB+Tx8wjEfvmEDE8oqHsL/QP5TFnonht/zjHze9bzjIZpDqZY+Gtg4mbBw=="
+  "signature": "O/Fr+dWJ6kpCEcCQw84B+jSKjx39p3hZXoDNHM6V5PFnZRzA9Jzoy51xjvn05Q5To1OHOUnvsUF9LOp1pS3zAA=="
 }
