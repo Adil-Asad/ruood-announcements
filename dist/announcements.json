@@ -210,39 +210,6 @@
       "title": "Ummi Boss"
     },
     {
-      "body": "",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "announcement-2026-09-13",
-      "image": {
-        "alt": "Announcement image",
-        "bytes": 107472,
-        "height": 1080,
-        "path": "images/announcement-2026-09-13-b76e445e.webp",
-        "sha256": "b76e445e59e576b20f70d7a5603e3c10af6fbec3af04c59ecd6dc8ee24c30c47",
-        "width": 864
-      },
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-13T17:49:55.362Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android"
-        ]
-      },
-      "title": ""
-    },
-    {
       "body": "Yycychcch",
       "category": "notice",
       "display": {
@@ -267,12 +234,46 @@
         ]
       },
       "title": "Chhcgc"
+    },
+    {
+      "body": "",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "announcement-2026-09-13",
+      "image": {
+        "alt": "Announcement image",
+        "bytes": 107472,
+        "height": 1080,
+        "path": "images/announcement-2026-09-13-b76e445e.webp",
+        "sha256": "b76e445e59e576b20f70d7a5603e3c10af6fbec3af04c59ecd6dc8ee24c30c47",
+        "width": 864
+      },
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-14T19:45:33.401Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": ""
     }
   ],
-  "generatedAt": "2026-09-14T19:33:35Z",
+  "generatedAt": "2026-09-14T19:46:27Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 25,
+  "revision": 26,
   "schemaVersion": 1,
-  "signature": "uEsGDbXqE0V550nOcJy6GBUBZjkYmxJ0Wc+F8qO/iDwh1IMqJvlmgxNRfRZvtRZk5BkiFWyXVwlNsiPavnLpDw=="
+  "signature": "z+DnDe7v/E5zVHMnr8EcPjLfzEIoJKWhTECvI7qtw2FEGaF7ymM3MEPSIzCzJC1Q/xlNkdjkq/kC9OymSc/GCw=="
 }
