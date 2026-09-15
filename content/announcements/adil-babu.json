@@ -1,0 +1,30 @@
+{
+  "body": "Baba Black Ship",
+  "category": "notice",
+  "createdAt": "2026-09-15T10:26:15Z",
+  "display": {
+    "dismiss": "permanent",
+    "maxImpressions": 1,
+    "minIntervalHours": 24,
+    "surface": "modal",
+    "trigger": "next-launch"
+  },
+  "endAt": null,
+  "id": "adil-babu",
+  "minSchema": 1,
+  "priority": 50,
+  "publishedAt": "2026-09-15T10:26:15Z",
+  "rev": 1,
+  "startAt": "2026-09-15T10:26:15.222Z",
+  "status": "published",
+  "targeting": {
+    "maxVersion": null,
+    "minVersion": null,
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "title": "Adil Babu",
+  "updatedAt": "2026-09-15T10:26:15Z"
+}
