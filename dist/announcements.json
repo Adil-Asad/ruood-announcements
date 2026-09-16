@@ -411,12 +411,46 @@
         ]
       },
       "title": "Adil Babu"
+    },
+    {
+      "body": "",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "announcement-2026-09-16",
+      "image": {
+        "alt": "Announcement image",
+        "bytes": 67154,
+        "height": 1080,
+        "path": "images/announcement-2026-09-16-26df79db.webp",
+        "sha256": "26df79db2a944fbc328e671f663096b05fb8fa3e583e6a7c412dfab89799e621",
+        "width": 864
+      },
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-16T18:44:49.680Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": ""
     }
   ],
-  "generatedAt": "2026-09-15T10:29:04Z",
+  "generatedAt": "2026-09-16T18:45:36Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 37,
+  "revision": 38,
   "schemaVersion": 1,
-  "signature": "o4QzI90sULojpFlKS2i9Q9rDiISBPkmrG/APPmYl7Bl2gwq0J9Gu6xIky05JAAFBL4oRPL+HwetCRq8Jyw2VCg=="
+  "signature": "HZdesaHytk2axBYXHLf2oXnqUh7TwQPQNhTpgNMp5Skeck/XbComzbbSpHUj0i7UjOMQJBs5H7FkYrmd8OSeAw=="
 }
