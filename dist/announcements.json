@@ -45,40 +45,6 @@
         "trigger": "next-launch"
       },
       "endAt": null,
-      "id": "announcement-2026-09-20",
-      "image": {
-        "alt": "Announcement image",
-        "bytes": 99978,
-        "height": 1080,
-        "path": "images/announcement-2026-09-20-b031cc6f.webp",
-        "sha256": "b031cc6f6f008798bef8660d1f34ff9d88cb7cafc3570ec5c4d856f2cbb35528",
-        "width": 864
-      },
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-20T14:01:38.737Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": ""
-    },
-    {
-      "body": "",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
       "id": "announcement-2026-09-20-2",
       "image": {
         "alt": "Announcement image",
@@ -101,12 +67,46 @@
         ]
       },
       "title": ""
+    },
+    {
+      "body": "Hi! We have introduced new ladies related stuff to get done. So Buy from our online stores. A quick brown fox jumps over the lazy dog.",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "announcement-2026-09-20",
+      "image": {
+        "alt": "New Fragrance launched",
+        "bytes": 99978,
+        "height": 1080,
+        "path": "images/announcement-2026-09-20-b031cc6f.webp",
+        "sha256": "b031cc6f6f008798bef8660d1f34ff9d88cb7cafc3570ec5c4d856f2cbb35528",
+        "width": 864
+      },
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-20T14:53:39.618Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "New Fragrance launched"
     }
   ],
-  "generatedAt": "2026-09-20T14:44:21Z",
+  "generatedAt": "2026-09-20T14:54:19Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 43,
+  "revision": 44,
   "schemaVersion": 1,
-  "signature": "fCmbNGTE0/LrfVVIjDTVJ2D55FP4/eo5wLF0MV6o5aQwP3Jar7JRNB2NycEiVAQqoD/qSPC9BSYX/pMFEj0eCw=="
+  "signature": "RTFkr74Galp3QgvoVi+7d3iQLSkBjRpaQ0o4rE9C8UzMZmpiXUT71W35NSxclCIe10wOWBm8w6dUtIQmulsDAA=="
 }
