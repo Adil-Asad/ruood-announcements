@@ -35,40 +35,6 @@
       "title": ""
     },
     {
-      "body": "Hi! We have introduced new ladies related stuff to get done. So Buy from our online stores. A quick brown fox jumps over the lazy dog.",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "announcement-2026-09-20",
-      "image": {
-        "alt": "New Fragrance launched",
-        "bytes": 99978,
-        "height": 1080,
-        "path": "images/announcement-2026-09-20-b031cc6f.webp",
-        "sha256": "b031cc6f6f008798bef8660d1f34ff9d88cb7cafc3570ec5c4d856f2cbb35528",
-        "width": 864
-      },
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-20T14:53:39.618Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": "New Fragrance launched"
-    },
-    {
       "body": "Dhd dbd xbdbx sv d dbdxbdbd fb xbddb dbdb dbdbdb  dbdbxbdg  dbdb  dvdbdb fbdb f fdbdbrhdb xbddb dbd dbxx dbd d bdbbdbd x",
       "category": "notice",
       "display": {
@@ -101,12 +67,46 @@
         ]
       },
       "title": "FXbmxbm,, cbdxbd xhx egdh dhdh dhdh ddh dhfbrbdf frbfbf xbdg"
+    },
+    {
+      "body": "",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "announcement-2026-09-20-3",
+      "image": {
+        "alt": "Announcement image",
+        "bytes": 90978,
+        "height": 1080,
+        "path": "images/announcement-2026-09-20-3-c2e6d3ba.webp",
+        "sha256": "c2e6d3ba216a355a4018f3b22370ef2b0a4f0d9c1fbb3e95a11471e74ac39302",
+        "width": 608
+      },
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-20T15:54:33.295Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": ""
     }
   ],
-  "generatedAt": "2026-09-20T15:51:10Z",
+  "generatedAt": "2026-09-20T15:55:19Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 45,
+  "revision": 46,
   "schemaVersion": 1,
-  "signature": "5O4X+7v7vOwAuuHl9qSgJyjaTH9plYlKuq6CiZuuQCowY8z0nE2bV6KQYRXBHfn/ICbbGhT50yB7dWOYxQ0vAg=="
+  "signature": "7XxQ8DWGvhc1vFfryLFnsZm2VmcGjKhNNW/aCxsNPC20N5I1i5V5+fJfxqDtPIFSzNv2LHl8ChNtcAMDXC0BDg=="
 }
