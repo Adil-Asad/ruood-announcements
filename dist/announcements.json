@@ -1,40 +1,6 @@
 {
   "announcements": [
     {
-      "body": "Baba Black Ship",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "adil-babu",
-      "image": {
-        "alt": "Adil Babu",
-        "bytes": 34892,
-        "height": 1080,
-        "path": "images/adil-babu-8b708f5b.webp",
-        "sha256": "8b708f5b2a780c10013209a44193e295b578bceaf304f3a40244c2b9cfab68a9",
-        "width": 608
-      },
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-15T10:26:15.222Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": "Adil Babu"
-    },
-    {
       "body": "",
       "category": "notice",
       "display": {
@@ -103,10 +69,10 @@
       "title": ""
     }
   ],
-  "generatedAt": "2026-09-20T14:20:54Z",
+  "generatedAt": "2026-09-20T14:23:13Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 40,
+  "revision": 41,
   "schemaVersion": 1,
-  "signature": "2RMHehtsrfRZiP3vLU7JxjHjI3DNKcjREq3vpDKL/O3eJf5fKNKncOe8okexDnKz/1mPEpRCFqSVZbJ2qKdHDQ=="
+  "signature": "+8f5gjXFPZIsbcZ10uNGZwV1FS48HiEERwa4hw045H+6+T4eN7nvdIKCdbO3PPiDcsIeRAvtZFOqPFosYeCeBg=="
 }
