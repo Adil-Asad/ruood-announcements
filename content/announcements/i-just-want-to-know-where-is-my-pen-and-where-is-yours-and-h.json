@@ -1,0 +1,30 @@
+{
+  "body": "So we have launched a new perfume in which you can find any type of ingredients specially we have citrus in that and we.",
+  "category": "notice",
+  "createdAt": "2026-09-20T17:01:57Z",
+  "display": {
+    "dismiss": "permanent",
+    "maxImpressions": 1,
+    "minIntervalHours": 24,
+    "surface": "modal",
+    "trigger": "next-launch"
+  },
+  "endAt": null,
+  "id": "i-just-want-to-know-where-is-my-pen-and-where-is-yours-and-h",
+  "minSchema": 1,
+  "priority": 50,
+  "publishedAt": "2026-09-20T17:01:57Z",
+  "rev": 1,
+  "startAt": "2026-09-20T17:01:57.370Z",
+  "status": "published",
+  "targeting": {
+    "maxVersion": null,
+    "minVersion": null,
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "title": "I just want to know where is my pen and where is yours and h",
+  "updatedAt": "2026-09-20T17:01:57Z"
+}
