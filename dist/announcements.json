@@ -11,40 +11,6 @@
         "trigger": "next-launch"
       },
       "endAt": null,
-      "id": "announcement-2026-09-16",
-      "image": {
-        "alt": "Announcement image",
-        "bytes": 67154,
-        "height": 1080,
-        "path": "images/announcement-2026-09-16-26df79db.webp",
-        "sha256": "26df79db2a944fbc328e671f663096b05fb8fa3e583e6a7c412dfab89799e621",
-        "width": 864
-      },
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-16T18:44:49.680Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": ""
-    },
-    {
-      "body": "",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
       "id": "announcement-2026-09-20-2",
       "image": {
         "alt": "Announcement image",
@@ -101,12 +67,46 @@
         ]
       },
       "title": "New Fragrance launched"
+    },
+    {
+      "body": "Dhd dbd xbdbx sv d dbdxbdbd fb xbddb dbdb dbdbdb  dbdbxbdg  dbdb  dvdbdb fbdb f fdbdbrhdb xbddb dbd dbxx dbd d bdbbdbd x",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "fxbmxbm-cbdxbd-xhx-egdh-dhdh-dhdh-ddh-dhfbrbdf-frbfbf-xbdg",
+      "image": {
+        "alt": "FXbmxbm,, cbdxbd xhx egdh dhdh dhdh ddh dhfbrbdf frbfbf xbdg",
+        "bytes": 88504,
+        "height": 1080,
+        "path": "images/fxbmxbm-cbdxbd-xhx-egdh-dhdh-dhdh-ddh-dhfbrbdf-frbfbf-xbdg-bc8fcfb4.webp",
+        "sha256": "bc8fcfb4f4acf19373ffb7150bf84c8d7097577cc7ef9be51e9530e7edc274fe",
+        "width": 608
+      },
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-20T15:50:20.332Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "FXbmxbm,, cbdxbd xhx egdh dhdh dhdh ddh dhfbrbdf frbfbf xbdg"
     }
   ],
-  "generatedAt": "2026-09-20T14:54:19Z",
+  "generatedAt": "2026-09-20T15:51:10Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 44,
+  "revision": 45,
   "schemaVersion": 1,
-  "signature": "RTFkr74Galp3QgvoVi+7d3iQLSkBjRpaQ0o4rE9C8UzMZmpiXUT71W35NSxclCIe10wOWBm8w6dUtIQmulsDAA=="
+  "signature": "5O4X+7v7vOwAuuHl9qSgJyjaTH9plYlKuq6CiZuuQCowY8z0nE2bV6KQYRXBHfn/ICbbGhT50yB7dWOYxQ0vAg=="
 }
