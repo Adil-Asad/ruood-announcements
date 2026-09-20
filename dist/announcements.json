@@ -1,40 +1,6 @@
 {
   "announcements": [
     {
-      "body": "",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "announcement-2026-09-20-2",
-      "image": {
-        "alt": "Announcement image",
-        "bytes": 142816,
-        "height": 1080,
-        "path": "images/announcement-2026-09-20-2-7abdf0a1.webp",
-        "sha256": "7abdf0a1b6c3713d13d422812520ef23c62023dedd0677b279ab46138ad9f622",
-        "width": 865
-      },
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-20T14:43:32.367Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": ""
-    },
-    {
       "body": "Dhd dbd xbdbx sv d dbdxbdbd fb xbddb dbdb dbdbdb  dbdbxbdg  dbdb  dvdbdb fbdb f fdbdbrhdb xbddb dbd dbxx dbd d bdbbdbd x",
       "category": "notice",
       "display": {
@@ -101,12 +67,46 @@
         ]
       },
       "title": ""
+    },
+    {
+      "body": "So we have launched a new perfume in which you can find any type of ingredients specially we have citrus in that and we.",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "i-just-want-to-know-where-is-my-pen-and-where-is-yours-and-h",
+      "image": {
+        "alt": "I just want to know where is my pen and where is yours and h",
+        "bytes": 88476,
+        "height": 1080,
+        "path": "images/i-just-want-to-know-where-is-my-pen-and-where-is-yours-and-h-1c23a49a.webp",
+        "sha256": "1c23a49a0a31712d837cd758fafedc7f4a7b87727502d5cbac2c8bd5eb25c849",
+        "width": 608
+      },
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-20T17:01:57.370Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": "I just want to know where is my pen and where is yours and h"
     }
   ],
-  "generatedAt": "2026-09-20T16:58:31Z",
+  "generatedAt": "2026-09-20T17:02:37Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 48,
+  "revision": 49,
   "schemaVersion": 1,
-  "signature": "y9OkL0rG0smKhAwgN27BjvXzcpnVrRZk+3ZNwBLJKFu+pOprEJ2qphlqt8NchtpJ+WsvuDve/YINwqun7Vf6DQ=="
+  "signature": "/54xFtjXp34EpmZbm6wmdfDgXwQAvvjlUsoXiqFPyqBD48DkQ8ZhUdVPskoa3quibpUJViM8QTU5C3+Z6QDmBw=="
 }
