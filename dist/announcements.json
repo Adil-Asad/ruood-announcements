@@ -1,40 +1,6 @@
 {
   "announcements": [
     {
-      "body": "Baba Black Ship",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "adil-babu",
-      "image": {
-        "alt": "Adil Babu",
-        "bytes": 34892,
-        "height": 1080,
-        "path": "images/adil-babu-8b708f5b.webp",
-        "sha256": "8b708f5b2a780c10013209a44193e295b578bceaf304f3a40244c2b9cfab68a9",
-        "width": 608
-      },
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-15T10:26:15.222Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": "Adil Babu"
-    },
-    {
       "body": "",
       "category": "notice",
       "display": {
@@ -101,12 +67,46 @@
         ]
       },
       "title": ""
+    },
+    {
+      "body": "",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "announcement-2026-09-20-2",
+      "image": {
+        "alt": "Announcement image",
+        "bytes": 142816,
+        "height": 1080,
+        "path": "images/announcement-2026-09-20-2-7abdf0a1.webp",
+        "sha256": "7abdf0a1b6c3713d13d422812520ef23c62023dedd0677b279ab46138ad9f622",
+        "width": 865
+      },
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-20T14:43:32.367Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": ""
     }
   ],
-  "generatedAt": "2026-09-20T14:25:07Z",
+  "generatedAt": "2026-09-20T14:44:21Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 42,
+  "revision": 43,
   "schemaVersion": 1,
-  "signature": "cJKDQTXtefAOjjc+dLVU0QyEm9xQGVIAKjl1Zza8gZ/kBE2uFmLk1yLjQviunzbtmrY+qYBkVKyYJ3YWxjykAQ=="
+  "signature": "fCmbNGTE0/LrfVVIjDTVJ2D55FP4/eo5wLF0MV6o5aQwP3Jar7JRNB2NycEiVAQqoD/qSPC9BSYX/pMFEj0eCw=="
 }
