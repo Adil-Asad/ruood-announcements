@@ -1,40 +1,6 @@
 {
   "announcements": [
     {
-      "body": "Dhd dbd xbdbx sv d dbdxbdbd fb xbddb dbdb dbdbdb  dbdbxbdg  dbdb  dvdbdb fbdb f fdbdbrhdb xbddb dbd dbxx dbd d bdbbdbd x",
-      "category": "notice",
-      "display": {
-        "dismiss": "permanent",
-        "maxImpressions": 1,
-        "minIntervalHours": 24,
-        "surface": "modal",
-        "trigger": "next-launch"
-      },
-      "endAt": null,
-      "id": "fxbmxbm-cbdxbd-xhx-egdh-dhdh-dhdh-ddh-dhfbrbdf-frbfbf-xbdg",
-      "image": {
-        "alt": "FXbmxbm,, cbdxbd xhx egdh dhdh dhdh ddh dhfbrbdf frbfbf xbdg",
-        "bytes": 88504,
-        "height": 1080,
-        "path": "images/fxbmxbm-cbdxbd-xhx-egdh-dhdh-dhdh-ddh-dhfbrbdf-frbfbf-xbdg-bc8fcfb4.webp",
-        "sha256": "bc8fcfb4f4acf19373ffb7150bf84c8d7097577cc7ef9be51e9530e7edc274fe",
-        "width": 608
-      },
-      "minSchema": 1,
-      "priority": 50,
-      "rev": 1,
-      "startAt": "2026-09-20T15:50:20.332Z",
-      "targeting": {
-        "maxVersion": null,
-        "minVersion": null,
-        "platforms": [
-          "android",
-          "ios"
-        ]
-      },
-      "title": "FXbmxbm,, cbdxbd xhx egdh dhdh dhdh ddh dhfbrbdf frbfbf xbdg"
-    },
-    {
       "body": "",
       "category": "notice",
       "display": {
@@ -101,12 +67,46 @@
         ]
       },
       "title": "I just want to know where is my pen and where is yours and h"
+    },
+    {
+      "body": "",
+      "category": "notice",
+      "display": {
+        "dismiss": "permanent",
+        "maxImpressions": 1,
+        "minIntervalHours": 24,
+        "surface": "modal",
+        "trigger": "next-launch"
+      },
+      "endAt": null,
+      "id": "announcement-2026-09-21",
+      "image": {
+        "alt": "Announcement image",
+        "bytes": 139638,
+        "height": 1080,
+        "path": "images/announcement-2026-09-21-f7494aeb.webp",
+        "sha256": "f7494aebc95bccb81261998e5ef84088c27757a79de2a8d573c70d7055abc78b",
+        "width": 608
+      },
+      "minSchema": 1,
+      "priority": 50,
+      "rev": 1,
+      "startAt": "2026-09-21T14:59:59.305Z",
+      "targeting": {
+        "maxVersion": null,
+        "minVersion": null,
+        "platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      "title": ""
     }
   ],
-  "generatedAt": "2026-09-20T17:02:37Z",
+  "generatedAt": "2026-09-21T15:00:48Z",
   "keyId": "2bc1e956",
   "paused": false,
-  "revision": 49,
+  "revision": 50,
   "schemaVersion": 1,
-  "signature": "/54xFtjXp34EpmZbm6wmdfDgXwQAvvjlUsoXiqFPyqBD48DkQ8ZhUdVPskoa3quibpUJViM8QTU5C3+Z6QDmBw=="
+  "signature": "qnbszwUy1vNcLVLdZjn3+KJG0EG5395bdrf3bICHBu+NklDJLWHBR2x7ddze47GOL8+NT2ahFrdQ8LiTCZAhCQ=="
 }
