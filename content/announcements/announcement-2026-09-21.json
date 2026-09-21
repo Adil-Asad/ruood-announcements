@@ -1,0 +1,30 @@
+{
+  "body": "",
+  "category": "notice",
+  "createdAt": "2026-09-21T14:59:59Z",
+  "display": {
+    "dismiss": "permanent",
+    "maxImpressions": 1,
+    "minIntervalHours": 24,
+    "surface": "modal",
+    "trigger": "next-launch"
+  },
+  "endAt": null,
+  "id": "announcement-2026-09-21",
+  "minSchema": 1,
+  "priority": 50,
+  "publishedAt": "2026-09-21T14:59:59Z",
+  "rev": 1,
+  "startAt": "2026-09-21T14:59:59.305Z",
+  "status": "published",
+  "targeting": {
+    "maxVersion": null,
+    "minVersion": null,
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "title": "",
+  "updatedAt": "2026-09-21T14:59:59Z"
+}
